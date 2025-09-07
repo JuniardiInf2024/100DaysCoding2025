@@ -1,5 +1,7 @@
-public class juniardi{
-  public static void main [String args]{
-    system.out.println("Hello, world");
-  }
+package juniardi;
+import java.util.*;
+public class Coding1 {
+    public static void main(String[] args) {
+        System.out.println("Hello, world");
+    }
 }
