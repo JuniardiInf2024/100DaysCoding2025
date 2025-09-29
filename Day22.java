@@ -1,5 +1,4 @@
 package juniardi ;
-
 public class Coding22{
     public static void main(String[] args) {
         int sisi = 27;
