@@ -27,6 +27,8 @@ public class Coding40 {
                     if (angka1 != 0) {
                         hasil = angka1 / angka2;
                         System.out.println("Hasil: " + hasil);
+                    }else {
+                        System.out.println("Error: Pembagian dengan nol tidak diperbolehkan!");
                     }
                 }
                 else {
