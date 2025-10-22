@@ -2,7 +2,7 @@ package juniardi;
 
 import java.util.Scanner;
 
-public class Coding45{
+public class Coding44{
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
