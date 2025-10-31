@@ -4,7 +4,7 @@ public class Coding54 {
 
         for (int i = 1; i <= 10; i++) {
             if (i == 5) {
-                continue; // lewati angka 5
+                continue;
             }
             System.out.println(i);
         }
