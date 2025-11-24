@@ -36,7 +36,7 @@ public class Coding78 {
 
         // replace() – mengganti karakter/kata
         String diganti = trimmed.replace("Java", "Matematika");
-        System.out.println("replace(\"Java\", \"Program\"): \"" + diganti + "\"");
+        System.out.println("replace(\"Java\", \"Matematika\"): \"" + diganti + "\"");
 
     }
 }
