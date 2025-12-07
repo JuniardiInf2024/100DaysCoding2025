@@ -6,6 +6,5 @@ public class Coding91 {
     public static void main(String[] args) {
         ucapSalam("Juniardi");
         ucapSalam("Akram");
-        ucapSalam("Tiara");
     }
 }
